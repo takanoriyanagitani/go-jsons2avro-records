@@ -1,0 +1,54 @@
+{
+  "name": "sample",
+  "type": "record",
+  "fields": [
+    {
+      "name": "id",
+	  "default": null,
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    {
+      "name": "name",
+	  "default": null,
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    {
+      "name": "price",
+	  "default": null,
+      "type": [
+        "null",
+        "double"
+      ]
+    },
+    {
+      "name": "removed",
+	  "default": null,
+      "type": [
+        "null",
+        "boolean"
+      ]
+    },
+    {
+      "name": "timestamp",
+	  "default": null,
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    {
+      "name": "updated",
+	  "default": null,
+      "type": [
+        "null",
+        "string"
+      ]
+    }
+  ]
+}

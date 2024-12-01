@@ -1,0 +1,26 @@
+name = 'sample'
+type = 'record'
+
+[[fields]]
+  name = 'id'
+  type = ['null', 'string']
+
+[[fields]]
+  name = 'name'
+  type = ['null', 'string']
+
+[[fields]]
+  name = 'price'
+  type = ['null', 'double']
+
+[[fields]]
+  name = 'removed'
+  type = ['null', 'boolean']
+
+[[fields]]
+  name = 'timestamp'
+  type = ['null', 'string']
+
+[[fields]]
+  name = 'updated'
+  type = ['null', 'string']
